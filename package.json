@@ -7,8 +7,8 @@
     "test": "tests"
   },
   "scripts": {
-  "test": "serverless-bundle test"
-},
+    "test": "serverless-bundle test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/happysinghbhati/serverless-stack-api.git"
