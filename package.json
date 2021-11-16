@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/happysinghbhati/serverless-stack-api#readme",
   "devDependencies": {
-    "aws-sdk": "^2.575.0",
+    "aws-sdk": "^2.814.0",
     "jest": "^24.9.0",
     "serverless-bundle": "^1.2.5",
     "serverless-dotenv-plugin": "^2.1.1",
